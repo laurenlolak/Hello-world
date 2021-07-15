@@ -1,4 +1,5 @@
 # Product Marketing Management Work Repository
+Lead generation, sales enablement resources, product messaging and positioning to drive go-to-market strategies and product pipelines to fuel demand and adoption of all products within the Alianza ecosystem. Including ownership of product messaging and positioning, enabling reseller customers and internal sales team with content and tools aligned to needs in various stages of the sales cycle.
 
 <img src="Cymbus website screenshot.png" 
      alt="Cymbus website screenshot.png" 
