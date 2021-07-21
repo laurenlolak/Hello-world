@@ -121,32 +121,37 @@ How do email vs SMS compare? See our ROI Comparison, which message channel wins,
 Business Text Messaging (BTM) is a powerful tool with a limitless range of uses. Learn how service providers can leverage its capability to target a wide range of SMB customers.
      
 <UL><LI><a href="https://info.alianza.com/btm_data_sheet">View Here</a>
+</UL>
      
 <b>Business Text Messging for Retail</b>
 Business Text Messaging (BTM) is a powerful tool with a underestimated range of uses. Learn how to leverage it's limitless uses to target previously difficult to penetrate industry verticals, such as Retail.
      
 <UL><LI><a href="https://info.alianza.com/btm_retail_data_sheet-0">View Here</a>        
+</UL>
      
 <b>Business Text Messging for Education</b>
 Learn about the wide-ranging, industry specific, applications for how Business Text Messaging within Education.
      
 <UL><LI><a href="https://info.alianza.com/btm_education_data_sheet">View Here</a>    
+</UL>
      
 <b>Business Cloud Communications Solutions Brief</b>
 Learn about Alianza's newest addition to the UC product suite, Business Cloud Communications (BCC). A service provider purpose built solution that enables you to address the growing demand for VoIP and cloud communications services.
      
 <UL><LI><a href="https://info.alianza.com/bcc-solutions-brief">View Here</a>   
+</UL>
      
 <b>Business Cloud Communications Data Sheet</b>
 Learn about Business Cloud Communications. An all-inclusive solution that provides service providers predictable, healthy margins that scale with their customers.
      
 <UL><LI><a href="https://info.alianza.com/bcc-data-sheet">View Here</a>           
+</UL>
      
 <b>Business Text Messaging: The Communication Service Provider Opportunity</b>
 Learn how Business Text Messaging can drive CSP commercial revenue growth and digital transformation for your SMB customers.
      
 <UL><LI><a href="https://info.alianza.com/business-text-messaging-the-csp-opportunity">View Here</a>      
-     
+</UL>     
      
      
      
