@@ -22,9 +22,8 @@ Cloud services are the new normal for businesses, with market revenue expected t
      alt="Alianza Service Provider Cloud Phone Whitepaper Pic.PNG" 
      width="356" height="420" />  
      
-     <UL><LI><a href="Alianza Service Provider Cloud Phone Whitepaper (1).pdf">View Here</a>
-</UL>
-     
+<UL><LI><a href="Alianza Service Provider Cloud Phone Whitepaper (1).pdf">View Here</a>
+</UL>          
      
 <b>Business Text Messaging - Capture Greater Market Share</b>
 
@@ -100,4 +99,56 @@ COVID-19 drastically impacted retailers, forcing many to rapidly adust. Read how
 Wondering how you can use an SDK Solution, or Softphone SDK, in your own, specific application? Read about important components your team should consider when selecting an softphone SDK provider, and a breakdown on weather your organization should consider building it yourself, vs. buying from an established SDK solution provider.
      
 <UL><LI><a href="https://blog.counterpath.com/sdk-solution-8-vital-adoption-considerations">Visit Blog</a>
+</UL>    
+     
+# Marketing Sheets
+A Product Marketing Manager at Alianza, I owns all product messaging and positioning of all products within the Alianza ecosystem, including the enablement of our
+reseller customers selling to their SMB and entperise end users. The below pieces I researched, defined audience, wrote the copy, and created the design elements.
+ 
+<b>Cymbus Data Sheet</b>
+Introducing Cymbus, a carrier grade, cloud native communications platform that is purpose built for service providers. Learn how to leverage it's rapid return on investment for your business.
+     
+<UL><LI><a href="https://info.alianza.com/alianza_cymbus_data_sheet">View Here</a>
 </UL>       
+     
+<b>SMS vs. Email ROI Comparison</b>
+How do email vs SMS compare? See our ROI Comparison, which message channel wins, and everything you need to know about business text messaging.    
+
+<UL><LI><a href="https://info.alianza.com/business-text-messaging-the-csp-opportunity-0">View Here</a>
+</UL>     
+     
+<b>Business Text Messging Market Opportunities</b>
+Business Text Messaging (BTM) is a powerful tool with a limitless range of uses. Learn how service providers can leverage its capability to target a wide range of SMB customers.
+     
+<UL><LI><a href="https://info.alianza.com/btm_data_sheet">View Here</a>
+     
+<b>Business Text Messging for Retail</b>
+Business Text Messaging (BTM) is a powerful tool with a underestimated range of uses. Learn how to leverage it's limitless uses to target previously difficult to penetrate industry verticals, such as Retail.
+     
+<UL><LI><a href="https://info.alianza.com/btm_retail_data_sheet-0">View Here</a>        
+     
+<b>Business Text Messging for Education</b>
+Learn about the wide-ranging, industry specific, applications for how Business Text Messaging within Education.
+     
+<UL><LI><a href="https://info.alianza.com/btm_education_data_sheet">View Here</a>    
+     
+<b>Business Cloud Communications Solutions Brief</b>
+Learn about Alianza's newest addition to the UC product suite, Business Cloud Communications (BCC). A service provider purpose built solution that enables you to address the growing demand for VoIP and cloud communications services.
+     
+<UL><LI><a href="https://info.alianza.com/bcc-solutions-brief">View Here</a>   
+     
+<b>Business Cloud Communications Data Sheet</b>
+Learn about Business Cloud Communications. An all-inclusive solution that provides service providers predictable, healthy margins that scale with their customers.
+     
+<UL><LI><a href="https://info.alianza.com/bcc-data-sheet">View Here</a>           
+     
+<b>Business Text Messaging: The Communication Service Provider Opportunity</b>
+Learn how Business Text Messaging can drive CSP commercial revenue growth and digital transformation for your SMB customers.
+     
+<UL><LI><a href="https://info.alianza.com/business-text-messaging-the-csp-opportunity">View Here</a>      
+     
+     
+     
+     
+     
+    
