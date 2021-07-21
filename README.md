@@ -8,7 +8,7 @@ Launched April 2021, this website was created as a customer facing resource and 
 <UL><LI><a href="https://cymbus.com/">View https://cymbus.com/</a>
 </UL>
 
-     <img src="Cymbus website screenshot.png" 
+<img src="Cymbus website screenshot.png" 
      alt="Cymbus website screenshot.png" 
      width="1300" height="614" />  
 
