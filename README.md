@@ -84,20 +84,20 @@ This white paper examines the cloud phone systems can be leveraged by businesses
 </UL>
  
      
-<b>Blog: 6 Ways Cloud Communications Creates Unprecedented Benefits (for Service Providers)</b>    
+<b>6 Ways Cloud Communications Creates Unprecedented Benefits (for Service Providers)</b>    
  Cloud services are the new normal for business. As IT's opt to host less hardware on-premises, SMBs and enterprises are increasingly divering more budget dollars to cloud communiation apps and platforms. Learn about the compelling benefits for service providers.
      
 <UL><LI><a href="https://www.alianza.com/call-to-the-cloud/6-cloud-communications-benefits-service-providers">Visit Blog</a>
 </UL>
  
      
-<b>Blog: Retail Cloud Solution: Top 5 Service Provider Benefits</b>     
+<b>Retail Cloud Solution: Top 5 Service Provider Benefits</b>     
 COVID-19 drastically impacted retailers, forcing many to rapidly adust. Read how a retail cloud solution benefits the service provider, retailer, retail associates, and end customers.
      
 <UL><LI><a href="https://www.alianza.com/call-to-the-cloud/retail-cloud-solution-benefits">Visit Blog</a>
 </UL>  
      
-<b>Blog: SDK Solution: 8 Vital Adoption Considerations & What It Means For You</b>     
+<b>SDK Solution: 8 Vital Adoption Considerations & What It Means For You</b>     
 Wondering how you can use an SDK Solution, or Softphone SDK, in your own, specific application? Read about important components your team should consider when selecting an softphone SDK provider, and a breakdown on weather your organization should consider building it yourself, vs. buying from an established SDK solution provider.
      
 <UL><LI><a href="https://blog.counterpath.com/sdk-solution-8-vital-adoption-considerations">Visit Blog</a>
