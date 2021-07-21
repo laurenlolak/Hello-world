@@ -30,9 +30,9 @@ Cloud services are the new normal for businesses, with market revenue expected t
 
 With Business Text Messaging you can enable your SMB customers with the most powerful communication channel — allowing them to reach their customers on the one channel they always have with them — their smartphones.
 
-          <img src="eBook BTM Pic.PNG" 
+<img src="eBook BTM Pic.PNG" 
      alt="eBook BTM Pic.PNG" 
-  width="356" height="420" />  
+     width="356" height="420" />  
     
 <UL><LI><a href="Alianza - Business Text Messaging - White Paper.pdf">View Here</a>
 </UL>     
@@ -45,7 +45,7 @@ This white paper examines the shift to mass work-from-home, which  happened rapi
        
 <img src="Cymbus Remote Teams Whitepaper Pic 1.PNG" 
      alt="Cymbus Remote Teams Whitepaper Pic 1.PNG" 
-  width="450.5" height="348.5" />  
+     width="450.5" height="348.5" />  
  
      <UL><LI><a href="Cymbus Whitepaper - 6 Things Every CTO Must Know About Future Proofing Communications.pdf">View Here</a>
 </UL>    
