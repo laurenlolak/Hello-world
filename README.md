@@ -11,7 +11,26 @@ Launched April 2021, this website was created as a customer facing resource and 
 <img src="Cymbus website screenshot.png" 
      alt="Cymbus website screenshot.png" 
      width="1300" height="614" />  
-
+     
+<b>Retail Use Case Webpage</b>
+ Discover UC VoIP Retail Telephony Solutions
+     
+<UL><LI><a href="https://www.counterpath.com/hospitality/">Visit Webpage</a>
+</UL>
+     
+<b>Hospitality Use Case Webage</b>
+Robust Hospilality Softphone Solutions
+     
+<UL><LI><a href="https://www.counterpath.com/retail/">Visit Webpage</a>
+</UL>
+     
+ <b>Competitive Solution Comparison Webage</b>
+Bria vs. Zoipher and Alternate Softphones: What's the Difference?
+     
+<UL><LI><a href="https://www.counterpath.com/zoiper-alternative-acrobits-alternative/https://www.counterpath.com/retail/">Visit Webpage</a>
+</UL>    
+     
+     
 # White Papers     
      
 <b>Cloud Phones - 9 Transformative Benefits for Service Providers</b>
