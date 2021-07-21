@@ -91,3 +91,9 @@ COVID-19 drastically impacted retailers, forcing many to rapidly adust. Read how
      
 <UL><LI><a href="https://www.alianza.com/call-to-the-cloud/retail-cloud-solution-benefits">Visit Blog</a>
 </UL>  
+     
+<b>Blog: SDK Solution: 8 Vital Adoption Considerations & What It Means For You</b>     
+Wondering how you can use an SDK Solution, or Softphone SDK, in your own, specific application? Read about important components your team should consider when selecting an softphone SDK provider, and a breakdown on weather your organization should consider building it yourself, vs. buying from an established SDK solution provider.
+     
+<UL><LI><a href="https://blog.counterpath.com/sdk-solution-8-vital-adoption-considerations">Visit Blog</a>
+</UL>       
