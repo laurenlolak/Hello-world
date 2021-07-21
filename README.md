@@ -1,7 +1,7 @@
 # Product Marketing Management Work Repository
 
      
-# Website Creation & Copywriting
+# Website Creation &  Product Specific Copywriting
 
 Launched April 2021, this website was created as a customer facing resource and sales enablement tool for service providers to direct their end customers to. Completed within 60 days, including a major design pivot 2 weeks prior to launch. I was a key stakeholder in the development, design, and implementation of the website. I developed the copy for the Product pages, developing compelling narratives, clear messages, and value props that would resonate with SMBs and enterprises; in addition to developing all the marketing resources highlighted under the Resources tab. 
 
