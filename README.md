@@ -3,18 +3,17 @@
      
 # Website Creation & Copywriting
 
-Launched April 2021, this website was created as a customer facing resource and sales enablement tool for service providers to direct their end customers to. Completed within 60 days, including majr design pivot 2 weeks prior to launch. I was a key stakeholder in the developoent, design and implementation of the this website. I developed the copy for the Product pages, developing compelling narratives, clear messages, and value props that would resonate with SMBs and enterprises; in addition to developing the marketing resources highlighted under the Resources tab. 
+Launched April 2021, this website was created as a customer facing resource and sales enablement tool for service providers to direct their end customers to. Completed within 60 days, including major design pivot 2 weeks prior to launch. I was a key stakeholder in the developoent, design and implementation of the this website. I developed the copy for the Product pages, developing compelling narratives, clear messages, and value props that would resonate with SMBs and enterprises; in addition to developing the marketing resources highlighted under the Resources tab. 
 
 <UL><LI><a href="https://cymbus.com/">View https://cymbus.com/</a>
 </UL>
 
      <img src="Cymbus website screenshot.png" 
      alt="Cymbus website screenshot.png" 
-       width="1324" height="614" />  
+     width="1300" height="614" />  
 
 # White Papers     
      
-  
 <b>Cloud Phones - 9 Transformative Benefits for Service Providers</b>
 
 Cloud services are the new normal for businesses, with market revenue expected to surpass $49 billion by 2023. As IT teams opt to host less hardware on-premises, SMBs and enterprises are increasingly diverting more budget dollars to cloud apps and platforms — and phone and communication systems are no exception.
