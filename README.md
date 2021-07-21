@@ -47,10 +47,10 @@ This white paper examines the shift to mass work-from-home, which  happened rapi
      alt="Cymbus Remote Teams Whitepaper Pic 1.PNG" 
      width="450.5" height="348.5" />  
  
-     <UL><LI><a href="Cymbus Whitepaper - 6 Things Every CTO Must Know About Future Proofing Communications.pdf">View Here</a>
-</UL>    
-
-     
+<UL><LI><a href="Cymbus Whitepaper - 6 Things Every CTO Must Know About Future Proofing Communications.pdf">View Here</a>
+</UL>   
+   
+   
 <b>The Future of Unified Communications in Retail</b>
      
 This white paper examines the retail space and how UC can be leveraged for omnichannel communication support, more effective operations, and an overall better ROI for retail businesses. 
@@ -59,9 +59,9 @@ This white paper examines the retail space and how UC can be leveraged for omnic
      alt="Cymbus Retail Whitepaper Pic.PNG" 
    width="450.5" height="348.5" />  
  
-          <UL><LI><a href="Cymbus Whitepaper - The Future of Unified Communications in Retail.pdf">View Here</a>
-</UL>    
-       
+<UL><LI><a href="Cymbus Whitepaper - The Future of Unified Communications in Retail.pdf">View Here</a>
+</UL>   
+
      
 <b>9 Transformative Benefits for Enterprises of Any Size</b>
      
