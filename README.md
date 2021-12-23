@@ -9,9 +9,6 @@
 
 Launched April 2021, this website was created as a customer facing resource and sales enablement tool for service providers to direct their end customers to. Completed within 60 days, including a major design pivot 2 weeks prior to launch. I was a key stakeholder in the development, design, and implementation of the website. I developed the copy for the Product pages, developing compelling narratives, clear messages, and value props that would resonate with SMBs and enterprises; in addition to developing all the marketing resources highlighted under the Resources tab. 
 
-<img src="Cymbus website screenshot.png" 
-     alt="Cymbus website screenshot.png" 
-     width="1300" height="614" />  
 
 ### <b><a href="https://alianza.com/">Alianza.com</a></b>
 
@@ -52,51 +49,32 @@ Launched Sept 2021, this was an entire overhall of the existing Alianza website 
 
 If 2021 demanded we question the way we work, 2022 will demand we double down on the right technology investments. As C-level telecom executives tackle goals for the upcoming year, they will face an onslaught of priorities that range from basic needs of regulatory compliancy to higher level priorities such as network longevity, how to secure their business, and revenue growth.  
 
-<img src="2022 Prediction White Paper Pic.PNG" 
-     alt="2022 Prediction White Paper Pic.PNG" 
-     width="356" height="420" />  
      
 <b><a href="Alianza Service Provider Cloud Phone Whitepaper (1).pdf">Cloud Phones - 9 Transformative Benefits for Service Providers</a></b>      
 
 Cloud services are the new normal for businesses, with market revenue expected to surpass $49 billion by 2023. As IT teams opt to host less hardware on-premises, SMBs and enterprises are increasingly diverting more budget dollars to cloud apps and platforms — and phone and communication systems are no exception.
 
-<img src="Alianza Service Provider Cloud Phone Whitepaper Pic.PNG" 
-     alt="Alianza Service Provider Cloud Phone Whitepaper Pic.PNG" 
-     width="356" height="420" />  
-       
+
 <b><a href="Alianza - Business Text Messaging - White Paper.pdf">Business Text Messaging - Capture Greater Market Share</a></b>      
      
 With Business Text Messaging you can enable your SMB customers with the most powerful communication channel — allowing them to reach their customers on the one channel they always have with them — their smartphones.
 
-<img src="eBook BTM Pic.PNG" 
-     alt="eBook BTM Pic.PNG" 
-     width="356" height="420" />  
     
 <b><a href="Cymbus Whitepaper - 6 Things Every CTO Must Know About Future Proofing Communications.pdf">6 Things Every CTO Must Know About Future-Proofing Communications</a></b> 
 
 The events of early 2020 have changed the world, and the workplace. As a result of the COVID-19 pandemic there has been an unprecedented, and necessary, shift to work-from-home. In response, may organizations were forced to rapidly adapt, adopt new tools, and invest in cap-ex heavy location agnostic devices, technology and user management solutions. The implementation of these impromptu solutions introduced substantial new security risks, and user management challenges, placing unanticipated strain on IT, administrators and HR.
 This white paper examines the shift to mass work-from-home, which  happened rapidly, and caught many companies unprepared; however, the shift to remote work is here to stay, requiring IT and business leaders to consider their strategy for managing a geographically dispersed workforce going forward. 
        
-<img src="Cymbus Remote Teams Whitepaper Pic 1.PNG" 
-     alt="Cymbus Remote Teams Whitepaper Pic 1.PNG" 
-     width="450.5" height="348.5" />  
  
 <b><a href="Cymbus Whitepaper - The Future of Unified Communications in Retail.pdf">The Future of Unified Communications in Retail</a></b> 
    
 This white paper examines the retail space and how UC can be leveraged for omnichannel communication support, more effective operations, and an overall better ROI for retail businesses. 
      
- <img src="Cymbus Retail Whitepaper Pic.PNG" 
-     alt="Cymbus Retail Whitepaper Pic.PNG" 
-   width="450.5" height="348.5" />  
  
 <b><a href="Cymbus Whitepaper - 9 Transformative Benefits for Enterprises of Any Size.pdf">9 Transformative Benefits for Enterprises of Any Size</a></b> 
      
-This white paper examines the cloud phone systems can be leveraged by businesses of any size to gain substantial benefits.>
+This white paper examines the cloud phone systems can be leveraged by businesses of any size to gain substantial benefits.
      
-  <img src="Cymbus Branded Cover Pic.PNG" 
-     alt="Cymbus Branded Cover Pic.PNG" 
-    width="450.5" height="348.5" />  
- 
 
 ## Blogs
 
@@ -127,59 +105,56 @@ Business text messaging is a welcome gateway for communication with deaf and har
      
 <b><a href="https://blog.counterpath.com/sdk-solution-8-vital-adoption-considerations">SDK Solution: 8 Vital Adoption Considerations & What It Means For You</a></b> Wondering how you can use an SDK Solution, or Softphone SDK, in your own, specific application? Read about important components your team should consider when selecting an softphone SDK provider, whether your organization should  building it yourself vs. buying from an established SDK solution provider.
      
-     
+## Case Studies
+
+<b><a href="https://info.alianza.com/hubfs/Case%20Studies%20+%20Partner%20Briefs/Horizon_Telecom_Case_Study.pdf">Horizon Telecom</a></b> Despite initial hesitancy from Horizon Telecom's veterans, Alianza’s platform and team of experts was the clear choice.
+
+<b><a href="https://info.alianza.com/hubfs/Case%20Studies%20+%20Partner%20Briefs/Xplornet_Enterprise_Case_Study.pdf">Xplornet Enterprise Solutions</a></b> After three acquisitions, Xplornet Enterprise Solutions required critical interoperability with users’ existing hardware to avoid replacing.
+
+<b><a href="https://info.alianza.com/hubfs/Case%20Studies%20+%20Partner%20Briefs/Adams_Cable_Case_Study.pdf">Adams Cable </a></b> Adams Cable experienced significant issues with their previous provider — “It was a nightmare.”
+
+<b><a href="2021 - Gazelle Integrated Communications Case Study.pdf">Gazelle</a></b> Gazelle ensured a large niche of extremely mission critical mental health service providers were able to work from anywhere, with any device, and any network.
+
+<b><a href="2021 - Monster VoIP Case Study.pdf">Monster VoIP</a></b> Prior to CounterPath, calls randomly dropped, employees were tied to an office phone, and customers suffered from unexpected fees or buggy software.
+
+
 ## Marketing Sheets
 A Product Marketing Manager at Alianza, I owns all product messaging and positioning of all products within the Alianza ecosystem, including the enablement of our
-reseller customers selling to their SMB and entperise end users. The below pieces I researched, defined audience, wrote the copy, and created the design elements.
- 
-<b>Cymbus Data Sheet</b>
-Introducing Cymbus, a carrier grade, cloud native communications platform that is purpose built for service providers. Learn how to leverage it's rapid return on investment for your business.
-     
-<UL><LI><a href="https://info.alianza.com/alianza_cymbus_data_sheet">View Here</a>
-</UL>       
-     
-<b>SMS vs. Email ROI Comparison</b>
-How do email vs SMS compare? See our ROI Comparison, which message channel wins, and everything you need to know about business text messaging.    
+reseller customers selling to their SMB and enterprise end users. The below pieces I researched, defined audience, wrote the copy, and created the design elements.
+* Alianza brand is for service providers
+* Cymbus is for end users
 
-<UL><LI><a href="https://info.alianza.com/business-text-messaging-the-csp-opportunity-0">View Here</a>
-</UL>     
+<b><a href="https://info.alianza.com/alianza_cymbus_data_sheet">Cymbus Data Sheet</a></b> Introducing Cymbus, a carrier grade, cloud native communications platform that is purpose built for service providers. Learn how to leverage it's rapid return on investment for your business.
+
+<b><a href="https://info.alianza.com/business-text-messaging-the-csp-opportunity-0">SMS vs. Email ROI Comparison</a></b> How do email vs SMS compare? See our ROI Comparison, which message channel wins, and everything you need to know about business text messaging.    
+
+<b><a href="https://info.alianza.com/btm_data_sheet">Business Text Messaging Market Opportunities</a></b> Business Text Messaging (BTM) is a powerful tool with a limitless range of uses. Learn how service providers can leverage its capability to target a wide range of SMB customers.
+
+<b><a href="https://info.alianza.com/btm_retail_data_sheet-0">Business Text Messging for Retail</a></b> Business Text Messaging (BTM) is a powerful tool with a underestimated range of uses. Learn how to leverage it's limitless uses to target previously difficult to penetrate industry verticals, such as Retail.
+
+<b><a href="https://info.alianza.com/btm_education_data_sheet">Business Text Messging for Education</a></b> Learn about the wide-ranging, industry specific, applications for how Business Text Messaging within Education.
      
-<b>Business Text Messging Market Opportunities</b>
-Business Text Messaging (BTM) is a powerful tool with a limitless range of uses. Learn how service providers can leverage its capability to target a wide range of SMB customers.
-     
-<UL><LI><a href="https://info.alianza.com/btm_data_sheet">View Here</a>
-</UL>
-     
-<b>Business Text Messging for Retail</b>
-Business Text Messaging (BTM) is a powerful tool with a underestimated range of uses. Learn how to leverage it's limitless uses to target previously difficult to penetrate industry verticals, such as Retail.
-     
-<UL><LI><a href="https://info.alianza.com/btm_retail_data_sheet-0">View Here</a>        
-</UL>
-     
-<b>Business Text Messging for Education</b>
-Learn about the wide-ranging, industry specific, applications for how Business Text Messaging within Education.
-     
-<UL><LI><a href="https://info.alianza.com/btm_education_data_sheet">View Here</a>    
-</UL>
-     
-<b>Business Cloud Communications Solutions Brief</b>
-Learn about Alianza's newest addition to the UC product suite, Business Cloud Communications (BCC). A service provider purpose built solution that enables you to address the growing demand for VoIP and cloud communications services.
-     
-<UL><LI><a href="https://info.alianza.com/bcc-solutions-brief">View Here</a>   
-</UL>
-     
-<b>Business Cloud Communications Data Sheet</b>
-Learn about Business Cloud Communications. An all-inclusive solution that provides service providers predictable, healthy margins that scale with their customers.
-     
-<UL><LI><a href="https://info.alianza.com/bcc-data-sheet">View Here</a>           
-</UL>
-     
-<b>Business Text Messaging: The Communication Service Provider Opportunity</b>
-Learn how Business Text Messaging can drive CSP commercial revenue growth and digital transformation for your SMB customers.
-     
-<UL><LI><a href="https://info.alianza.com/business-text-messaging-the-csp-opportunity">View Here</a>      
-</UL>     
-     
+<b><a href="https://info.alianza.com/bcc-solutions-brief">Business Cloud Communications Solutions</a></b> Learn about Alianza's newest addition to the UC product suite, Business Cloud Communications (BCC). A service provider purpose built solution that enables you to address the growing demand for VoIP and cloud communications services.
+
+<b><a href="https://info.alianza.com/bcc-data-sheet">Business Cloud Communications Data Sheet</a></b> Learn about Business Cloud Communications. An all-inclusive solution that provides service providers predictable, healthy margins that scale with their customers.
+
+
+<b><a href="https://info.alianza.com/business-text-messaging-the-csp-opportunity">Business Text Messaging: The Communication Service Provider Opportunity</a></b> Learn how Business Text Messaging can drive CSP commercial revenue growth and digital transformation for your SMB customers.
+    
+
+## Press Releases
+
+<b><a href="https://www.alianza.com/press-releases/managed-specialty-lines-launch/">Alianza Introduces Turnkey Cloud-based POTS Replacement Solution for Telecom Service Providers</a></b>Developed with Albion Ventures and 10T Solutions, new Managed Specialty Lines offering gives service providers a clear upgrade path for modernizing their customers' business-critical communications
+
+<b><a href="https://www.alianza.com/press-releases/xplornet-selects-alianza/">Xplornet Enterprise Solutions Selects Alianza to Power Its New Comprehensive, Voice-First UCaaS Solution</a></b> Alianza’s Business Cloud Communications suite enables Canada’s largest fixed-wireless broadband service provider to offer state-of-the-art unified communications tools to remote workers
+    
+<b><a href="https://www.alianza.com/press-releases/scott-wharton-bod/">Next-Gen Communications Expert Scott Wharton Joins Alianza Board of Directors</a></b>Former BroadSoft Executive Brings Over 25 Years of Experience Helping Companies Achieve Massive Growth with Market-Leading Communications Solutions
+    
+<b><a href="https://www.alianza.com/press-releases/calix-elite-voip-partner/">Calix Selects Alianza as Cloud VoIP Elite Partner</a></b> Proven solution and vendor alignment that delivers for broadband service providers
+
+    
+
+
      
      
      
