@@ -5,10 +5,6 @@
      
 ## Website Creation &  Product Specific Copywriting
 
-### <b><a href="https://cymbus.com/">Cymbus.com</a></b>
-
-Launched April 2021, this website was created as a customer facing resource and sales enablement tool for service providers to direct their end customers to. Completed within 60 days, including a major design pivot 2 weeks prior to launch. I was a key stakeholder in the development, design, and implementation of the website. I developed the copy for the Product pages, developing compelling narratives, clear messages, and value props that would resonate with SMBs and enterprises; in addition to developing all the marketing resources highlighted under the Resources tab. 
-
 
 ### <b><a href="https://alianza.com/">Alianza.com</a></b>
 
@@ -32,8 +28,17 @@ Launched Sept 2021, this was an entire overhall of the existing Alianza website 
 * <b>Organic Search Traffic (Sessions).</b>  16% increase (due to SEO optimization)
 * <b>Resource Downloads.</b>  8% increase (compelling call to actions and collateral)
      
+
+### <b><a href="https://cymbus.com/">Cymbus.com</a></b>
+
+Launched April 2021, this website was created as a customer facing resource and sales enablement tool for Alianza's service providers to direct their end customers to. 
+
+* Completed within 60 days, including a major design pivot 2 weeks prior to launch. 
+* I was a key stakeholder in the development, design, and implementation of the website. 
+* I developed the copy for the Product pages, developing compelling narratives, clear messages, and value props that would resonate with SMBs and enterprises
+* Created <a href="https://cymbus.com/data-sheets/">a data sheet for each product</a>     
      
-     
+
 ### <b><a href="https://counterpath.com/">Counterpath.com</a></b>
 
 <b><a href="https://www.counterpath.com/hospitality/">Retail Use Case Webpage</a></b>  Discover UC VoIP Retail Telephony Solutions
@@ -145,11 +150,11 @@ reseller customers selling to their SMB and enterprise end users. The below piec
 
 ## Press Releases
 
-<b><a href="https://www.alianza.com/press-releases/managed-specialty-lines-launch/">Alianza Introduces Turnkey Cloud-based POTS Replacement Solution for Telecom Service Providers</a></b>Developed with Albion Ventures and 10T Solutions, new Managed Specialty Lines offering gives service providers a clear upgrade path for modernizing their customers' business-critical communications
+<b><a href="https://www.alianza.com/press-releases/managed-specialty-lines-launch/">Alianza Introduces Turnkey Cloud-based POTS Replacement Solution for Telecom Service Providers</a></b> Developed with Albion Ventures and 10T Solutions, new Managed Specialty Lines offering gives service providers a clear upgrade path for modernizing their customers' business-critical communications
 
 <b><a href="https://www.alianza.com/press-releases/xplornet-selects-alianza/">Xplornet Enterprise Solutions Selects Alianza to Power Its New Comprehensive, Voice-First UCaaS Solution</a></b> Alianza’s Business Cloud Communications suite enables Canada’s largest fixed-wireless broadband service provider to offer state-of-the-art unified communications tools to remote workers
     
-<b><a href="https://www.alianza.com/press-releases/scott-wharton-bod/">Next-Gen Communications Expert Scott Wharton Joins Alianza Board of Directors</a></b>Former BroadSoft Executive Brings Over 25 Years of Experience Helping Companies Achieve Massive Growth with Market-Leading Communications Solutions
+<b><a href="https://www.alianza.com/press-releases/scott-wharton-bod/">Next-Gen Communications Expert Scott Wharton Joins Alianza Board of Directors</a></b> Former BroadSoft Executive Brings Over 25 Years of Experience Helping Companies Achieve Massive Growth with Market-Leading Communications Solutions
     
 <b><a href="https://www.alianza.com/press-releases/calix-elite-voip-partner/">Calix Selects Alianza as Cloud VoIP Elite Partner</a></b> Proven solution and vendor alignment that delivers for broadband service providers
 
