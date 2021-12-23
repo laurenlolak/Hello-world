@@ -167,7 +167,7 @@ I created the Cymbus Chronicle as bi-monthly newsletter for the sole purpose of 
 * <b>How does it work?</b> Bi-monthly email newsletter highlighting newly available marketing resources that will enable providers with increased speed to market, reduced customer acquisition costs, reduced asset development costs, and sales enablment resources.
 * <b>Results:</b> Average of 28% open rate
 
-<a href="https://drive.google.com/drive/folders/1Q7AsgJ-NwTGSab54xd-KAZ64HXzgiDgx?usp=sharing">All Cymbus Chronicle Examples</a></b>
+<b><a href="https://drive.google.com/drive/folders/1Q7AsgJ-NwTGSab54xd-KAZ64HXzgiDgx?usp=sharing">All Cymbus Chronicle Examples</a></b>
 
 Example 1  | Example 2
 ------------- | -------------
