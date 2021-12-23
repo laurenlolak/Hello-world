@@ -1,7 +1,11 @@
 # Product Marketing Management Work Repository
 
+
+
      
-# Website Creation &  Product Specific Copywriting
+## Website Creation &  Product Specific Copywriting
+
+### <b>Cymbus.com</b>
 
 Launched April 2021, this website was created as a customer facing resource and sales enablement tool for service providers to direct their end customers to. Completed within 60 days, including a major design pivot 2 weeks prior to launch. I was a key stakeholder in the development, design, and implementation of the website. I developed the copy for the Product pages, developing compelling narratives, clear messages, and value props that would resonate with SMBs and enterprises; in addition to developing all the marketing resources highlighted under the Resources tab. 
 
@@ -11,6 +15,32 @@ Launched April 2021, this website was created as a customer facing resource and 
 <img src="Cymbus website screenshot.png" 
      alt="Cymbus website screenshot.png" 
      width="1300" height="614" />  
+
+### <b>Alianza.com</b> 
+
+Launched Sept 2021, this was an entire overhall of the existing Alianza website and brand. Completed within 90 days, I was the a key member in the development, rebranding, design, implementation of the website, and the following:
+
+* <b>SEO</b> 
+     * Optimized content to help grow our domain authority and increase quality traffic and prospects to site
+* <b>Copywriting and content creation for 20+ web pages including:</b> 
+     * 7 Solutions Pages. Each page highlighting a specific Alianza product.
+     * 6 Customer Pages. Each page is written to speak to the specific needs, pain points, and benefits of a particular type of communication service provider.
+* <b>Brand Refresh of over 32+ pieces of marketing collateral (Data Sheets, Solutions Briefs, White Papers, Case Studies, etc)</b> 
+     * Created new iconography for outdated collateral 
+     * Image sourcing, editing 
+     * Re-creation of doc within InDesign/modernize to match website refresh 
+     
+<b>Significant Results (Comparing 3-Months Pre-Launch to 3-Months Post-Launch)</b> 
+    
+* <b>Page Views.</b>  3.1x increase period over period
+* <b>Avg. Session Duration.</b>  7.7x period over period
+* <b>Bounce Rate.</b>  9% decrease
+* <b>Organic Search Traffic (Sessions).</b>  16% increase (due to SEO optimization)
+* <b>Resource Downloads.</b>  8% increase (compelling call to actions and collateral)
+     
+     
+     
+### <b>Counterpath.com</b>
      
 <b>Retail Use Case Webpage</b>
  Discover UC VoIP Retail Telephony Solutions
@@ -24,14 +54,24 @@ Robust Hospilality Softphone Solutions
 <UL><LI><a href="https://www.counterpath.com/retail/">Visit Webpage</a>
 </UL>
      
- <b>Competitive Solution Comparison Webage</b>
+<b>Competitive Solution Comparison Webage</b>
 Bria vs. Zoipher and Alternate Softphones: What's the Difference?
      
 <UL><LI><a href="https://www.counterpath.com/zoiper-alternative-acrobits-alternative/https://www.counterpath.com/retail/">Visit Webpage</a>
 </UL>    
      
      
-# White Papers     
+## White Papers     
+<b>Top 4 Service Provider Predictions & Trends for 2022</b>
+
+If 2021 demanded we question the way we work, 2022 will demand we double down on the right technology investments. As C-level telecom executives tackle goals for the upcoming year, they will face an onslaught of priorities that range from basic needs of regulatory compliancy to higher level priorities such as network longevity, how to secure their business, and revenue growth.  
+
+<img src="2022 Prediction White Paper Pic.PNG" 
+     alt="2022 Prediction White Paper Pic.PNG" 
+     width="356" height="420" />  
+     
+<UL><LI><a href="2022 Prediction White Paper 1 - Updated 1.pdf">View Here</a>
+</UL>   
      
 <b>Cloud Phones - 9 Transformative Benefits for Service Providers</b>
 
@@ -92,7 +132,7 @@ This white paper examines the cloud phone systems can be leveraged by businesses
   <UL><LI><a href="Cymbus Whitepaper - 9 Transformative Benefits for Enterprises of Any Size.pdf">View Here</a>
 </UL>
   
-# Blogs
+## Blogs
       
 <b>2021 Cloud Communication Survey (SMB Insights for Service Providers)</b>
  2021 SMB Cloud Communications Survey providers insights into buying plans and trends to help service providers identify customer and market opportunities.
@@ -120,7 +160,7 @@ Wondering how you can use an SDK Solution, or Softphone SDK, in your own, specif
 <UL><LI><a href="https://blog.counterpath.com/sdk-solution-8-vital-adoption-considerations">Visit Blog</a>
 </UL>    
      
-# Marketing Sheets
+## Marketing Sheets
 A Product Marketing Manager at Alianza, I owns all product messaging and positioning of all products within the Alianza ecosystem, including the enablement of our
 reseller customers selling to their SMB and entperise end users. The below pieces I researched, defined audience, wrote the copy, and created the design elements.
  
