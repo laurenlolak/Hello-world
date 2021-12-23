@@ -158,7 +158,23 @@ reseller customers selling to their SMB and enterprise end users. The below piec
     
 <b><a href="https://www.alianza.com/press-releases/calix-elite-voip-partner/">Calix Selects Alianza as Cloud VoIP Elite Partner</a></b> Proven solution and vendor alignment that delivers for broadband service providers
 
-    
+## Email Newsletters
+
+I created the Cymbus Chronicle as bi-monthly newsletter for the sole purpose of support and enablement of Alianza's service provider customers. 
+
+<b>What is it?</b> An external email to existing Alianza customers driving service provider adoption and awareness of Help Center resources. 
+<b>Who gets it?</b> Existing customers. Sent to the “Migration – Alianza Notifications – Release Notes” HubSpot list. 
+<b>How does it work?</b> Bi-monthly email newsletter highlighting newly available marketing resources that will enable providers with increased speed to market, reduced customer acquisition costs, reduced asset development costs, and sales enablment resources.
+
+Example 1  | Example 1
+------------- | -------------
+<img src="06.30.21 Cymbus Chronicle.png"| <img src="11.24.21 Cymbus Chronicle.png" 
+  
+<img src="The Empty Chest Images 1.png" 
+     alt="The Empty Chest Images 1.png" 
+     style="float: left; margin-right: 0.5px;" /> 
+     
+<a href="https://drive.google.com/drive/folders/1Q7AsgJ-NwTGSab54xd-KAZ64HXzgiDgx?usp=sharing">All Cymbus Chronicle Examples</a>
 
 
      
