@@ -113,12 +113,13 @@ Business text messaging is a welcome gateway for communication with deaf and har
 
 <b><a href="https://info.alianza.com/hubfs/Case%20Studies%20+%20Partner%20Briefs/Adams_Cable_Case_Study.pdf">Adams Cable </a></b> Adams Cable experienced significant issues with their previous provider — “It was a nightmare.”
 
-<b><a href="2021 - Gazelle Integrated Communications Case Study.pdf">Gazelle</a></b> Gazelle ensured a large niche of extremely mission critical mental health service providers were able to work from anywhere, with any device, and any network.
+<b><a href="https://drive.google.com/file/d/1qbhW0RewUIv7OYogxvtUuYhs5f8Zi-qY/view?usp=sharing">Gazelle</a></b> Gazelle ensured a large niche of extremely mission critical mental health service providers were able to work from anywhere, with any device, and any network.
 
-<b><a href="2021 - Monster VoIP Case Study.pdf">Monster VoIP</a></b> Prior to CounterPath, calls randomly dropped, employees were tied to an office phone, and customers suffered from unexpected fees or buggy software.
+<b><a href="https://drive.google.com/file/d/1og3UbIShs5ZxaTNWK9FY7ElR0BwywUgP/view?usp=sharing">Monster VoIP</a></b> Prior to CounterPath, calls randomly dropped, employees were tied to an office phone, and customers suffered from unexpected fees or buggy software.
 
 
 ## Marketing Sheets
+
 A Product Marketing Manager at Alianza, I owns all product messaging and positioning of all products within the Alianza ecosystem, including the enablement of our
 reseller customers selling to their SMB and enterprise end users. The below pieces I researched, defined audience, wrote the copy, and created the design elements.
 * Alianza brand is for service providers
