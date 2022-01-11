@@ -130,9 +130,6 @@ reseller customers selling to their SMB and enterprise end users. The below piec
 * Alianza brand is for service providers
 * Cymbus is for end users
 
-<b><a href="https://info.alianza.com/alianza_cymbus_data_sheet">Cymbus Data Sheet</a></b> Introducing Cymbus, a carrier grade, cloud native communications platform that is purpose built for service providers. Learn how to leverage it's rapid return on investment for your business.
-
-<b><a href="https://info.alianza.com/business-text-messaging-the-csp-opportunity-0">SMS vs. Email ROI Comparison</a></b> How do email vs SMS compare? See our ROI Comparison, which message channel wins, and everything you need to know about business text messaging.    
 
 <b><a href="https://info.alianza.com/btm_data_sheet">Business Text Messaging Market Opportunities</a></b> Business Text Messaging (BTM) is a powerful tool with a limitless range of uses. Learn how service providers can leverage its capability to target a wide range of SMB customers.
 
@@ -147,6 +144,7 @@ reseller customers selling to their SMB and enterprise end users. The below piec
 
 <b><a href="https://info.alianza.com/business-text-messaging-the-csp-opportunity">Business Text Messaging: The Communication Service Provider Opportunity</a></b> Learn how Business Text Messaging can drive CSP commercial revenue growth and digital transformation for your SMB customers.
     
+<b><a href="https://info.alianza.com/alianza_cymbus_data_sheet">Cymbus Data Sheet</a></b> Introducing Cymbus, a carrier grade, cloud native communications platform that is purpose built for service providers. Learn how to leverage it's rapid return on investment for your business.
 
 ## Press Releases
 
@@ -157,6 +155,8 @@ reseller customers selling to their SMB and enterprise end users. The below piec
 <b><a href="https://www.alianza.com/press-releases/scott-wharton-bod/">Next-Gen Communications Expert Scott Wharton Joins Alianza Board of Directors</a></b> Former BroadSoft Executive Brings Over 25 Years of Experience Helping Companies Achieve Massive Growth with Market-Leading Communications Solutions
     
 <b><a href="https://www.alianza.com/press-releases/calix-elite-voip-partner/">Calix Selects Alianza as Cloud VoIP Elite Partner</a></b> Proven solution and vendor alignment that delivers for broadband service providers
+
+<b><a href="https://info.alianza.com/business-text-messaging-the-csp-opportunity-0">SMS vs. Email ROI Comparison</a></b> How do email vs SMS compare? See our ROI Comparison, which message channel wins, and everything you need to know about business text messaging.    
 
 ## Email Newsletters
 
