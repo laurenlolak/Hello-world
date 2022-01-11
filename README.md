@@ -97,10 +97,10 @@ This white paper examines the cloud phone systems can be leveraged by businesses
 
 <b><a href="https://www.alianza.com/blog/cable-voip-platform-use-case/">Cable VoIP Platform Use Case — Service Providers Win with the Cloud</a></b> Read how a cable VoIP platform enables providers to win SMB business, increase ROI, simplify operations, and more with cloud communications.
 
-<b><a href="https://https://www.alianza.com/blog/business-text-messaging-complete-guide-2/">Business Text Messaging Enables SMBs to Support Hearing Impaired Customers</a></b>
+<b><a href="https://www.alianza.com/blog/business-text-messaging-complete-guide-2/">Business Text Messaging Enables SMBs to Support Hearing Impaired Customers</a></b>
 Business text messaging is a welcome gateway for communication with deaf and hard of hearing customers.
 
-<b><a href="https://https://www.alianza.com/blog/business-text-messaging-complete-guide/">The Complete Business Text Messaging Guide (Plus 5 Useful FAQs)</a></b> Email and business text messaging (SMS) square off in an ROI comparison. See which wins, the benefits, when best to use, and more.
+<b><a href="https://www.alianza.com/blog/business-text-messaging-complete-guide/">The Complete Business Text Messaging Guide (Plus 5 Useful FAQs)</a></b> Email and business text messaging (SMS) square off in an ROI comparison. See which wins, the benefits, when best to use, and more.
 
 <b><a href="https://www.alianza.com/call-to-the-cloud/2021-smb-cloud-communications">2021 Cloud Communication Survey (SMB Insights for Service Providers)</a></b> 2021 SMB Cloud Communications Survey providers insights into buying plans and trends to help service providers identify customer and market opportunities.
        
