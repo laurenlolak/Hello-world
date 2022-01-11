@@ -132,7 +132,7 @@ reseller customers selling to their SMB and enterprise end users. The below piec
 
 <b><a href="https://drive.google.com/file/d/1I3QAxZUV07IZRPOa2Q2X0NlegrKy4EVh/view?usp=sharing">Business Cloud Communications Solutions</a></b> Learn about Alianza's newest addition to the UC product suite, Business Cloud Communications (BCC). A service provider purpose built solution that enables you to address the growing demand for VoIP and cloud communications services.
 
-<b><a href="https://drive.google.com/file/d/1oGVtW8plGYKDy-jqB4V2miXLCN7HHX3m/view?usp=sharing">Business Cloud Communications Data Sheet</a></b> Learn about Business Cloud Communications. An all-inclusive solution that provides service providers predictable, healthy margins that scale with their customers.
+<b><a href="https://drive.google.com/file/d/1Kwd2AJav1xh_6on84Goe-xxV4ooA15jL/view?usp=sharing">Business Cloud Communications Data Sheet</a></b> Learn about Business Cloud Communications. An all-inclusive solution that provides service providers predictable, healthy margins that scale with their customers.
 
 <b><a href="https://drive.google.com/file/d/1B01vmbELl-3dYVIOvDr-9Q51RMVClNVA/view?usp=sharing">Business Text Messaging Market Opportunities</a></b> Business Text Messaging (BTM) is a powerful tool with a limitless range of uses. Learn how service providers can leverage its capability to target a wide range of SMB customers.
 
