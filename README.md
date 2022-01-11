@@ -131,15 +131,15 @@ reseller customers selling to their SMB and enterprise end users. The below piec
 * Cymbus is for end users
 
 
-<b><a href="https://info.alianza.com/btm_data_sheet">Business Text Messaging Market Opportunities</a></b> Business Text Messaging (BTM) is a powerful tool with a limitless range of uses. Learn how service providers can leverage its capability to target a wide range of SMB customers.
+<b><a href="https://drive.google.com/file/d/1B01vmbELl-3dYVIOvDr-9Q51RMVClNVA/view?usp=sharing">Business Text Messaging Market Opportunities</a></b> Business Text Messaging (BTM) is a powerful tool with a limitless range of uses. Learn how service providers can leverage its capability to target a wide range of SMB customers.
 
-<b><a href="https://info.alianza.com/btm_retail_data_sheet-0">Business Text Messging for Retail</a></b> Business Text Messaging (BTM) is a powerful tool with a underestimated range of uses. Learn how to leverage it's limitless uses to target previously difficult to penetrate industry verticals, such as Retail.
+<b><a href="https://drive.google.com/file/d/1VF72HRG2TxZmgtWMu1PPfFycZjxXc5Dn/view?usp=sharing">Business Text Messging for Retail</a></b> Business Text Messaging (BTM) is a powerful tool with a underestimated range of uses. Learn how to leverage it's limitless uses to target previously difficult to penetrate industry verticals, such as Retail.
 
-<b><a href="https://info.alianza.com/btm_education_data_sheet">Business Text Messging for Education</a></b> Learn about the wide-ranging, industry specific, applications for how Business Text Messaging within Education.
+<b><a href="https://drive.google.com/file/d/1RIcNQtOdx9FVv_HLbVGEqX4M0126sJQ4/view?usp=sharing">Business Text Messging for Education</a></b> Learn about the wide-ranging, industry specific, applications for how Business Text Messaging within Education.
      
-<b><a href="https://info.alianza.com/bcc-solutions-brief">Business Cloud Communications Solutions</a></b> Learn about Alianza's newest addition to the UC product suite, Business Cloud Communications (BCC). A service provider purpose built solution that enables you to address the growing demand for VoIP and cloud communications services.
+<b><a href="https://drive.google.com/file/d/1I3QAxZUV07IZRPOa2Q2X0NlegrKy4EVh/view?usp=sharing">Business Cloud Communications Solutions</a></b> Learn about Alianza's newest addition to the UC product suite, Business Cloud Communications (BCC). A service provider purpose built solution that enables you to address the growing demand for VoIP and cloud communications services.
 
-<b><a href="https://info.alianza.com/bcc-data-sheet">Business Cloud Communications Data Sheet</a></b> Learn about Business Cloud Communications. An all-inclusive solution that provides service providers predictable, healthy margins that scale with their customers.
+<b><a href="https://drive.google.com/file/d/1oGVtW8plGYKDy-jqB4V2miXLCN7HHX3m/view?usp=sharing">Business Cloud Communications Data Sheet</a></b> Learn about Business Cloud Communications. An all-inclusive solution that provides service providers predictable, healthy margins that scale with their customers.
 
 
 <b><a href="https://info.alianza.com/business-text-messaging-the-csp-opportunity">Business Text Messaging: The Communication Service Provider Opportunity</a></b> Learn how Business Text Messaging can drive CSP commercial revenue growth and digital transformation for your SMB customers.
