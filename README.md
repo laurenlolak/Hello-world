@@ -50,7 +50,7 @@ Launched April 2021, this website was created as a customer facing resource and 
      
 ## White Papers     
 
-<b><a href="2022 Prediction White Paper 1 - Updated 1.pdf">Top 4 Service Provider Predictions & Trends for 2022</a></b> 
+<b><a href="2022 Trends & Prediction White Paper.pdf">Top 4 Service Provider Predictions & Trends for 2022</a></b> 
 
 If 2021 demanded we question the way we work, 2022 will demand we double down on the right technology investments. As C-level telecom executives tackle goals for the upcoming year, they will face an onslaught of priorities that range from basic needs of regulatory compliancy to higher level priorities such as network longevity, how to secure their business, and revenue growth.  
 
